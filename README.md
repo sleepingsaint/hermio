@@ -1,7 +1,7 @@
 # HERMIO
 
 A simple discord bot to make your time more enjoyable.
-Join the [server](https://discord.gg/qeCHbv) to test the bot.
+Join the [server](https://discord.gg/qc3dvTA) to test the bot.
 
 ## Commands
 
