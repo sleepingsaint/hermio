@@ -9,8 +9,8 @@ module.exports = {
 
             $inspire: Genereate inspirational quote
             $article: Provides new interesting article from dev.to community
-            $bored: Advice you to do a random activity
-            $food: Gives random food image
+            $bored: Suggests a random activity
+            $food: Displays random food image
             $qr <text>: Generates the QR Code for the text provided. If text contains spaces enclose it in double quotes
             $help: Dispalys help
         `)
