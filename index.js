@@ -28,5 +28,5 @@ bot.on('message', msg => {
     }
 })
 
-bot.on('ready', () => console.log('hermio up and running'));
+bot.once('ready', () => console.log('hermio up and running'));
 bot.login(token);
