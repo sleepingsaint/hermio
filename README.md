@@ -12,6 +12,7 @@ $article | Provides new interesting article from dev.to community
 $bored | Suggests a random activity
 $food | Displays random food image
 $qr **text** | Generates the QR Code for the text provided. If text contains spaces enclose it in double quotes
+$urlshortner **url** | Generates the tiny url of the given url
 $help | Dispalys help 
 
 ## Usage
