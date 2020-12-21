@@ -4,5 +4,6 @@ module.exports = {
     Bored: require('./bored'),
     QRCode: require('./qrcode'),
     Food: require('./food'),
-    Inspire: require('./inspire')
+    Inspire: require('./inspire'),
+    URLShortner: require('./urlshortner')
 }

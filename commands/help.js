@@ -12,6 +12,7 @@ module.exports = {
             $bored: Suggests a random activity
             $food: Displays random food image
             $qr <text>: Generates the QR Code for the text provided. If text contains spaces enclose it in double quotes
+            $urlshortner <url>: Generates the tiny url for the <url>
             $help: Dispalys help
         `)
     },
